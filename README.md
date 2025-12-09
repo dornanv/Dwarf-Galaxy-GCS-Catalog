@@ -15,4 +15,5 @@ This repository hosts a literature catalog of dwarf galaxy total stellar, peak h
 Information about criteria for galaxies to be included in this literature catalog and how GCS masses and peak halo masses were calculated can be found in Dornan & Harris 2025b.
 
 </br> If you have any questions about this catalog, please feel free to contact me at vdornan@ed.ac.uk
+
 </br> December 2025
